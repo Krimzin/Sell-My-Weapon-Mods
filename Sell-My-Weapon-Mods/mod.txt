@@ -1,0 +1,22 @@
+{
+	"name": "Sell My Weapon Mods",
+	"description": "Enables you to sell weapon mods for Continental Coins.",
+	"author": "Krimzin",
+	"contact": "https://modworkshop.net/mod/27140",
+	"version": "1.0.2",
+	"blt_version": 2,
+	"hooks": [
+		{
+			"script_path": "hooks/BlackMarketGui.lua",
+			"hook_id": "lib/managers/menu/BlackMarketGui"
+		},
+		{
+			"script_path": "hooks/Core.lua",
+			"hook_id": "lib/setups/Setup"
+		},
+		{
+			"script_path": "hooks/Localization.lua",
+			"hook_id": "lib/managers/LocalizationManager"
+		}
+	]
+}

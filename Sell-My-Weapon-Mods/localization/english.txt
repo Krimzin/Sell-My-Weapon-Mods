@@ -1,0 +1,5 @@
+{
+	"SellMyWeaponMods_sell_button": "Sell Modification",
+	"SellMyWeaponMods_sell_title": "Are you sure?",
+	"SellMyWeaponMods_sell_text": "Do you really want to sell $mod?\n\nYou will receive $total Continental Coins."
+}
