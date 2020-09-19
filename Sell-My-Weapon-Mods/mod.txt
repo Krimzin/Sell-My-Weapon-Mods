@@ -1,6 +1,6 @@
 {
 	"name": "Sell My Weapon Mods",
-	"description": "Enables you to sell weapon mods for Continental Coins.",
+	"description": "A mod that enables you to sell weapon mods for Continental Coins.",
 	"author": "Krimzin",
 	"contact": "https://modworkshop.net/mod/27140",
 	"version": "1.0.2",
